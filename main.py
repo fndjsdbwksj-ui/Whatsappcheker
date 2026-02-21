@@ -4,7 +4,7 @@ import time
 from telebot import types
 
 # --- CONFIGURATION ---
-API_TOKEN = '8266344816:AAHboT_wENRpa_i3Vlet_SqNcYnDvAFKAs0'
+API_TOKEN = '8266344816:AAF5DkBJjY_SVUcHZ1J7Sgq2e57RZ85d0nk'
 bot = telebot.TeleBot(API_TOKEN, parse_mode="Markdown")
 
 # Global storage (In production, use a Database or JSON file)
